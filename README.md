@@ -1,1 +1,1 @@
-# AREP-Lab08-Aplicaci-n-distribuida-segura
+# AREP-Lab08-Aplicacion-distribuida-segura
