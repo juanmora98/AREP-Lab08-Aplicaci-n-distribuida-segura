@@ -17,7 +17,7 @@ Laboratorio realizado con la intención de que los estudiantes aprendan una form
    * [java]
   
 # Diseño
-El pdf añadido de nombre [Lab8](https://github.com/juanmora98/AREP-Laboratorio06/blob/master/Recursos/lab6.pdf) se encuentra el diseño del proyecto.
+El pdf añadido de nombre [Lab8](https://github.com/juanmora98/AREP-Lab08-Aplicacion-distribuida-segura/blob/master/recursos/lab8.pdf) se encuentra el diseño del proyecto.
 
 # JavaDoc
 [Documentacion](https://github.com/juanmora98/AREP-LAB07-GATEWAY-LAMBDA-/tree/master/Recursos/Documentacion/apidocs) al darle click, se abrira la carpeta donde se encuentra los archivos generados por el javadocs.
