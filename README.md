@@ -1,6 +1,5 @@
 # AREP-Lab08-Aplicacion-distribuida-segura
 
-[![CircleCI](https://circleci.com/gh/juanmora98/AREP-LAB07-GATEWAY-LAMBDA-.svg?style=svg)](https://circleci.com/gh/juanmora98/AREP-LAB07-GATEWAY-LAMBDA-)
 [![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven.plugins/maven-compiler-plugin/3.8.0)](https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin/3.8.0)
 [![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven.plugins/maven-dependency-plugin/3.0.1)](https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-dependency-plugin/3.0.1)
 [![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven.plugins/maven-javadoc-plugin)](https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-javadoc-plugin)
